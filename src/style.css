@@ -14,6 +14,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     top: 10px;
+    border: 10px dotted rgb(24, 105, 182);
 }
 
 #panel {
@@ -133,4 +134,10 @@ body {
 }
 .figure.wolf{
     background-image: url(./assets/wolf.png);
+}
+.figure.monster{
+    background-image: url(./assets/cookie-monster.png);
+}
+.figure.cookie{
+    background-image: url(./assets/Cookie.png);
 }
